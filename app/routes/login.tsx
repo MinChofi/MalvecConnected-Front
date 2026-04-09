@@ -3,7 +3,7 @@ import { Link } from "react-router";
 export default function Login() {
   return (
     <div className="flex items-center justify-center h-screen bg-white">
-      <form className="bg-gray-200 p-6 rounded-xl shadow-md w-100 space-y-4 text-blue-500">
+      <form className="bg-[#F2B11C]/20 p-6 rounded-xl shadow-md w-100 space-y-4 text-[#11332C]/90">
         <h2 className="text-xl font-bold text-center">Iniciar sesión</h2>
 
         <div className="flex justify-center items-center gap-2">
@@ -26,7 +26,7 @@ export default function Login() {
           />
         </div>
 
-        <button className="w-full bg-blue-400 p-2 rounded hover:bg-blue-300 text-white mt-6">
+        <button className="w-full bg-[#F2B11C] p-2 rounded hover:bg-[#F2B11C]/70 text-white mt-6">
           Entrar
         </button>
 
@@ -34,7 +34,7 @@ export default function Login() {
           <p className="text-black text-sm">
             ¿No tienes cuenta?
           </p>
-          <Link to="/register">Registrate</Link>
+          <Link to="/register" className="hover:text-[#F2B11C]">Registrate</Link>
         </div>
       </form>
     </div>

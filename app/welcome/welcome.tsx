@@ -20,7 +20,7 @@ export function Welcome() {
         <main className="flex flex-col items-center justify-center pb-4 gap-6 bg-[#FCF9F6]">
 
           <section>
-            <img src="/HAhX_ECacAIeUca.png" alt="" className="w-full h-192"/>
+            <img src="" alt="" className="w-full h-192"/>
           </section>
 
           <section id="aboutUs" className="flex flex-col w-[70%] pb-4 border border-b-amber-400">
@@ -32,14 +32,14 @@ export function Welcome() {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod debitis, dolores nemo magnam quae hic iste? Inventore voluptatum quis perspiciatis itaque consequuntur obcaecati quae iure nobis at tempora? Voluptates, veniam.
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias sunt cumque, eaque impedit necessitatibus perspiciatis totam aspernatur quaerat blanditiis saepe esse accusamus fuga ea nam cum, quo provident et. Iure?
               </p>
-              <img src="/image.webp" alt="imagen1" />
+              <img src="" alt="imagen1" />
             </div>
           </section>
 
           <section id="history" className="flex flex-col w-[70%] pb-4 border border-b-amber-400">
             <h1 className="text-[#F2B11C] text-center underline text-4xl mb-4">Nuestra Historia</h1>
             <div className="grid grid-cols-2 mt-3 gap-4">
-              <img src="/image.webp" alt="imagen1" />
+              <img src="" alt="imagen1" />
               <p className="text-gray-700">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, ipsam obcaecati. Perferendis ex, ducimus eum veniam fugit natus nulla voluptate quis a, consequatur deleniti voluptatibus reprehenderit tempora cupiditate eius fugiat.
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis doloribus maxime facere exercitationem totam unde odit quisquam, neque tenetur ipsam quis quam tempora hic soluta modi deleniti? Placeat, doloremque rem.
